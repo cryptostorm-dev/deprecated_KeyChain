@@ -1,3 +1,84 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            0c:51:d5:37:de:7f:ec:6f:36:23:e5:49:8e:2b:99:b7
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert SHA2 High Assurance Server CA
+        Validity
+            Not Before: Jan 21 00:00:00 2015 GMT
+            Not After : Jan 24 12:00:00 2018 GMT
+        Subject: C=US, ST=CA, L=San Francisco, O=Twitter, Inc., OU=LON3 Point of Presence, CN=tweetdeck.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:b4:4f:9b:b2:9c:7f:b0:36:19:a9:d5:d3:e4:51:
+                    ca:ec:2a:02:36:9f:9d:dd:a8:05:24:dd:7a:f9:f6:
+                    c7:2b:5b:31:fc:01:73:6f:90:04:9f:d7:75:01:86:
+                    51:ca:85:dc:fd:7a:d2:aa:10:6f:12:d6:7f:cd:03:
+                    07:cb:23:1a:f3:42:7c:35:16:89:52:fb:1d:ab:4d:
+                    93:e8:22:04:f5:76:3e:f6:ce:32:b5:97:01:0a:dc:
+                    71:94:3a:e1:b1:07:08:13:4d:3a:67:24:6c:92:14:
+                    8f:1c:a5:79:b1:76:93:de:b7:cd:fb:e0:df:31:33:
+                    fb:62:67:b9:f3:63:c1:43:f8:71:b6:03:66:da:57:
+                    c8:b1:fc:df:e2:9d:a3:7c:42:bf:8c:ac:5e:d5:0d:
+                    be:e3:f2:52:94:fd:3b:9d:14:f2:d5:33:d9:f3:8a:
+                    3b:9e:41:6b:cf:45:76:29:5a:df:3b:fb:1b:54:06:
+                    62:1f:82:2a:89:9a:d3:4d:ff:f2:ad:8b:28:50:61:
+                    90:b3:41:0f:16:99:f5:7d:8e:a7:9f:fd:da:09:ba:
+                    2f:9d:dd:c2:05:41:d5:a1:7f:f2:7f:88:48:87:89:
+                    8b:98:79:21:19:f2:ac:c5:72:7a:e4:97:2f:59:30:
+                    d0:a1:11:85:78:d6:6b:f3:bb:63:fc:33:09:47:80:
+                    b7:19
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:51:68:FF:90:AF:02:07:75:3C:CC:D9:65:64:62:A2:12:B8:59:72:3B
+
+            X509v3 Subject Key Identifier: 
+                A5:ED:66:BA:58:DC:1A:EE:9D:4E:ED:EB:7C:32:BD:AB:81:BD:D6:73
+            X509v3 Subject Alternative Name: 
+                DNS:tweetdeck.com, DNS:tdweb.twitter.com, DNS:api.tweetdeck.com, DNS:downloads.tweetdeck.com, DNS:tweetdeck.twitter.com, DNS:web.tweetdeck.com, DNS:www.tweetdeck.com
+            X509v3 Key Usage: critical
+                Digital Signature, Key Encipherment
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication, TLS Web Client Authentication
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl3.digicert.com/sha2-ha-server-g3.crl
+
+                Full Name:
+                  URI:http://crl4.digicert.com/sha2-ha-server-g3.crl
+
+            X509v3 Certificate Policies: 
+                Policy: 2.16.840.1.114412.1.1
+                  CPS: https://www.digicert.com/CPS
+
+            Authority Information Access: 
+                OCSP - URI:http://ocsp.digicert.com
+                CA Issuers - URI:http://cacerts.digicert.com/DigiCertSHA2HighAssuranceServerCA.crt
+
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+    Signature Algorithm: sha256WithRSAEncryption
+         54:1f:46:06:a7:0b:03:f2:4d:09:06:3d:2c:4d:44:1f:3b:5d:
+         1b:95:de:89:16:33:dc:aa:88:81:bc:d9:cc:61:a5:c0:83:5e:
+         6a:ad:7d:82:d0:f5:1d:4d:9f:4f:73:ae:ab:43:be:e1:8d:44:
+         7c:2a:c1:c9:e1:d9:40:6c:5a:02:fc:7f:2e:55:69:b4:a4:a7:
+         a0:62:7e:69:2a:75:1a:da:18:67:62:23:a0:28:b4:ec:a6:fc:
+         8a:3d:2c:af:74:f9:1e:a7:72:bc:2b:f3:22:69:e5:67:91:76:
+         ae:5d:85:75:fd:d1:6f:f0:d0:87:7b:c0:ca:8d:bc:de:3b:c8:
+         5c:97:c7:c3:98:33:d6:ea:a1:d8:2c:b1:5d:9c:7d:96:ad:30:
+         ef:e3:bf:18:d9:8d:74:63:a8:b7:03:d0:7b:16:44:aa:31:5c:
+         af:b2:af:7e:63:3f:78:db:ca:d9:ac:14:f8:93:f5:71:64:08:
+         64:95:cd:f8:70:39:4b:9f:84:6a:53:a7:be:c1:c6:46:bb:c2:
+         f5:5c:22:03:f6:3a:b8:c8:88:57:0b:e9:6e:f0:6a:7e:88:c0:
+         ce:14:b6:f1:a3:7e:ff:7d:84:89:b4:b7:e8:e1:54:df:57:8f:
+         ff:a9:23:e2:8d:f6:ab:fb:f7:5d:cf:24:17:c3:32:dc:5b:aa:
+         5e:f3:14:95
+
 -----BEGIN CERTIFICATE-----
 MIIF2zCCBMOgAwIBAgIQDFHVN95/7G82I+VJjiuZtzANBgkqhkiG9w0BAQsFADBw
 MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
